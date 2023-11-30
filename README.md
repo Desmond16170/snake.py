@@ -21,7 +21,7 @@ This project features a classic implementation of the Snake game using the Pygam
 
 ## Usage Instructions
 
-1. Clone the repository: `git clone 
+1. Clone the repository: `git clone https://github.com/Desmond16170/snake.py.git
 2. Navigate to the game directory: `cd snake-game-pygame`
 3. Run the game: `python snake_game.py`
 
