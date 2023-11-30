@@ -1,28 +1,29 @@
-# Snake Game en Pygame
+# Snake Game in Pygame
 
-¡Bienvenido al repositorio del juego Snake desarrollado en Pygame!
+Welcome to the repository for the Snake game developed in Pygame!
 
-## Descripción
+## Description
 
-Este proyecto presenta una implementación clásica del juego Snake utilizando la biblioteca Pygame en Python. Los jugadores controlan una serpiente que crece al consumir alimentos en la pantalla, con el objetivo de alcanzar la longitud máxima posible sin chocar contra las paredes o a sí misma.
+This project features a classic implementation of the Snake game using the Pygame library in Python. Players control a snake that grows by consuming food on the screen, with the goal of reaching the maximum length possible without colliding with walls or itself.
 
-## Características destacadas
+## Key Features
 
-- **Interfaz Gráfica Atractiva:** El juego cuenta con una interfaz gráfica simple pero atractiva, con colores vibrantes y diseño intuitivo.
+- **Attractive Graphic Interface:** The game has a simple yet attractive graphic interface with vibrant colors and an intuitive design.
   
-- **Controles Intuitivos:** Los controles son fáciles de entender, permitiendo a los jugadores mover la serpiente en cuatro direcciones utilizando las teclas de flecha.
+- **Intuitive Controls:** Controls are easy to understand, allowing players to move the snake in four directions using arrow keys.
 
-- **Puntuación y Puntuaciones Más Altas:** El juego guarda automáticamente la puntuación más alta en un archivo y muestra las puntuaciones más altas al jugador al final de cada partida.
+- **Scoring and High Scores:** The game automatically saves the highest score in a file and displays the high scores to the player at the end of each game.
 
-## Requisitos
+## Requirements
 
 - Python 3.x
-- Pygame (instalable mediante `pip install pygame`)
+- Pygame (installable via `pip install pygame`)
 
-## Instrucciones de Uso
+## Usage Instructions
 
-1. Clona el repositorio: `git clone https://github.com/Desmond16170/snake-game-pygame.git`
-2. Navega al directorio del juego: `cd snake-game-pygame`
-3. Ejecuta el juego: `python snake_game.py`
+1. Clone the repository: `git clone 
+2. Navigate to the game directory: `cd snake-game-pygame`
+3. Run the game: `python snake_game.py`
 
-¡Diviértete jugando y trata de superar tus propias puntuaciones más altas!
+Have fun playing and try to beat your own high scores!
+****
