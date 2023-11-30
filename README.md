@@ -41,3 +41,8 @@ This project features a classic implementation of the Snake game using the Pygam
 
 Have fun playing and try to beat your own high scores!
 ****
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
