@@ -1,6 +1,6 @@
 # Snake Game in Pygame
 
-Welcome to the repository for the Snake game developed in Pygame!
+Welcome to the Snake Game developed in Pygame!
 
 ## Description
 
@@ -9,10 +9,24 @@ This project features a classic implementation of the Snake game using the Pygam
 ## Key Features
 
 - **Attractive Graphic Interface:** The game has a simple yet attractive graphic interface with vibrant colors and an intuitive design.
-  
-- **Intuitive Controls:** Controls are easy to understand, allowing players to move the snake in four directions using arrow keys.
+
+- **Three Difficulty Levels:** Players can choose from three difficulty levels, each with different screen sizes and snake speeds.
 
 - **Scoring and High Scores:** The game automatically saves the highest score in a file and displays the high scores to the player at the end of each game.
+
+## Controls
+
+- Use arrow keys to navigate the snake.
+- Press Enter to start the game.
+- Press E to exit the game.
+
+## How to Play
+
+1. Run the game.
+2. Enter your name when prompted.
+3. Select the difficulty level (1 for easy, 2 for medium, 3 for difficult).
+4. Play the game and try to achieve the highest score.
+5. Press Enter to play again or E to exit the game.
 
 ## Requirements
 
